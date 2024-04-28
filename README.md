@@ -27,6 +27,9 @@ The Random Forest model achieved an accuracy of **80.18%** on the validation dat
 
 ## Contributors
 - Michael Oko Odumanye
+- Esawo Kevin
+- Isaac Akwatia Asante
+- Nana Kwamina Eyison
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
